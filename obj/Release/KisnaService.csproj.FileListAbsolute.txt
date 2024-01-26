@@ -1,0 +1,9 @@
+D:\Avinash\WindowService\KisnaService\bin\Release\KisnaService.exe.config
+D:\Avinash\WindowService\KisnaService\bin\Release\KisnaService.exe
+D:\Avinash\WindowService\KisnaService\bin\Release\KisnaService.pdb
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.csproj.AssemblyReference.cache
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.ProjectInstaller.resources
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.csproj.GenerateResource.cache
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.csproj.CoreCompileInputs.cache
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.exe
+D:\Avinash\WindowService\KisnaService\obj\Release\KisnaService.pdb
